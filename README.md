@@ -22,4 +22,7 @@ Você pode me encontrar nas seguintes redes sociais:
 - 💼 LinkedIn: [Vinicius Santiago](https://www.linkedin.com/in/vinicius-santiago-dev/)
 - 📷 Instagram: [@vinnesantiago](https://www.instagram.com/vinnesantiago/)
 
-
+- 📧 Email: [![Email](https://img.icons8.com/color/48/000000/gmail.png)](mailto:vinicius.santiago997@gmail.com)
+- 📱 WhatsApp: [![WhatsApp](https://img.icons8.com/color/48/000000/whatsapp.png)](https://wa.me/5511934153188)
+- 💼 LinkedIn: [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/vinicius-santiago-dev/)
+- 📷 Instagram: [![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/vinnesantiago/)
