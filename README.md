@@ -2,7 +2,6 @@
 
 ## Sobre mim
 - 🏡 Moro em Jundiaí, SP, Brasil.
-- 🎓 Sou um estudante da [Trybe](https://www.betrybe.com/).
 - 🌱 Atualmente, estou estudando Desenvolvimento Web Full-Stack.
 - 💼 Buscando oportunidades de trabalho como desenvolvedor web.
 - 🤝 Aberto a colaborações e projetos interessantes.
